@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Vigneshwaran23/myPortfolio.git",
+  "homepage": "https://github.com/Vigneshwaran23/myPortfolio",
 
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
