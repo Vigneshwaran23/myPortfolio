@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .linkedin-page header {
+    background-color: #0073b1;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .linkedin-page nav a {
+    color: white;
+    margin: 0 1rem;
+    text-decoration: none;
+  }
+  
+  .linkedin-page section {
+    padding: 2rem;
+  }
+  
+  .linkedin-page .experience-item, 
+  .linkedin-page .education-item {
+    border: 1px solid #ddd;
+    margin: 1rem 0;
+    padding: 1rem;
+  }
+  
+  .linkedin-page ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
