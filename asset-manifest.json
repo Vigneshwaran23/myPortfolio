@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Vigneshwaran23/myPortfolio/static/css/main.4d752e00.css",
-    "main.js": "/Vigneshwaran23/myPortfolio/static/js/main.53159393.js",
-    "static/js/453.acca0757.chunk.js": "/Vigneshwaran23/myPortfolio/static/js/453.acca0757.chunk.js",
-    "index.html": "/Vigneshwaran23/myPortfolio/index.html",
-    "static/media/linkedin.svg": "/Vigneshwaran23/myPortfolio/static/media/linkedin.ff8a8c5473dd660b066d80e1321eaa1d.svg",
-    "main.4d752e00.css.map": "/Vigneshwaran23/myPortfolio/static/css/main.4d752e00.css.map",
-    "main.53159393.js.map": "/Vigneshwaran23/myPortfolio/static/js/main.53159393.js.map",
-    "453.acca0757.chunk.js.map": "/Vigneshwaran23/myPortfolio/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/myPortfolio/static/css/main.4d752e00.css",
+    "main.js": "/myPortfolio/static/js/main.e034913b.js",
+    "static/js/453.acca0757.chunk.js": "/myPortfolio/static/js/453.acca0757.chunk.js",
+    "index.html": "/myPortfolio/index.html",
+    "static/media/linkedin.svg": "/myPortfolio/static/media/linkedin.ff8a8c5473dd660b066d80e1321eaa1d.svg",
+    "main.4d752e00.css.map": "/myPortfolio/static/css/main.4d752e00.css.map",
+    "main.e034913b.js.map": "/myPortfolio/static/js/main.e034913b.js.map",
+    "453.acca0757.chunk.js.map": "/myPortfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d752e00.css",
-    "static/js/main.53159393.js"
+    "static/js/main.e034913b.js"
   ]
 }
